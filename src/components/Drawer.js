@@ -1,6 +1,6 @@
 function Drawer() {
     return (
-        <div style={{display: 'none'}} className={"overlay"}>
+        <div style={{display: "none"}} className={"overlay"}>
         <div className={"drawer"}>
             <h2 className={"mb-30 d-flex justify-between"}>
                 Корзина<img className={"removeBtn cu-p"} src="/img/button-remove.svg" alt={"Remove button"}/>
